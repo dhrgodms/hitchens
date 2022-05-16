@@ -60,22 +60,9 @@ title: About
     - SPA(Single Page Application) 버튼 제작 및 서버구동을 맡아 수행하였습니다.
       <br><br>
 
-### 〰️관심저장소 Fork 목록〰️
+### 〰️공부 중〰️
 
-- [React](https://github.com/dhrgodms/react)
-
-  ![react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png)
-
-
-    - 앞으로도 지속적으로 사용되고, 더 개발자에게 편리하게 발전될 라이브러리라고 생각하여 관심저장소로 fork 해보았습니다.
-    - 아직은 활용능력이 부족해 자유자재로 사용할 수 없지만, 꾸준히 공부하여 넷플릭스, 왓챠, 페이스북 화면의 작동 원리에 의문이 없도록 하는 것이 저의 목표입니다.
-
-  <br>
-
-- [freeCodeCamp](https://github.com/dhrgodms/freeCodeCamp)
-
-  ![freeCodeCamp](https://camo.githubusercontent.com/d069971a0af4d9e393066dc77ced000cff23a1f6bbfbb9e7704a870192a926ca/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f66726565636f646563616d702f776964652d736f6369616c2d62616e6e65722e706e67)
-
-    - 대학교 3학년에 접어들었음에도, 여전히 코딩실력이 부족하다고 생각합니다. 공부 의지에도 부족함이 있었다고 느껴 검색해보다 freeCodeCamp라는 오픈소스 프로젝트를 알게 되었습니다. 직접 사용해보며 어떤 방식으로 학생들에게 코딩을 가르치고, react로 어떻게 구현했는지를 알고 싶고, 직접 배워보면서 입문자가 배우기에 있어 이 사이트의 장점과 단점도 무엇인지도 생각해보고 싶습니다. 
-    - 더 나아가 훗날 contributor로서 한번 참여해보고 싶다는 마음을 가지고 관심저장소로 fork하게 되었습니다.
+- [jQuery로 구현하는 NFT 마켓플레이스 (이더리움, 폴리곤)](https://www.inflearn.com/course/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC-nft-%EB%A7%88%EC%BC%93%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4)
+  - Ethereum, Polygon을 이용해 NFT 마켓플레이스를 간단히 만들어보는 프로그램을 클론코딩 중입니다.
+  - [github](https://github.com/dhrgodms/nft-polygon-clone)
 
