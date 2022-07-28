@@ -59,6 +59,15 @@ title: About
     - SPA(Single Page Application) 버튼 제작 및 서버구동을 맡아 수행하였습니다.
       <br><br>
 
+<br>
+
+### 〰️공부 중〰️
+- [jQuery로 구현하는 NFT 마켓플레이스(이더리움, 폴리곤)](https://www.inflearn.com/course/%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC-nft-%EB%A7%88%EC%BC%93%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4)
+  - Ethereum, Polygon을 이용해 NFT 마켓플레이스를 간단히 만들어보는 프로그램을 클론코딩 중입니다.
+  - [github](https://github.com/dhrgodms/nft-polygon-clone)
+  <br><br>
+
+<br>
 ### 〰️관심저장소 Fork 목록〰️
 
 - [Ethereum-web3.py](https://github.com/dhrgodms/web3.py)
